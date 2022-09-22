@@ -1,0 +1,23 @@
+.parent{
+  position: relative;
+}
+
+h1 {
+text-align: center;
+}
+
+.soup {
+position: absolute;
+left: 40%;
+}
+
+.kel {
+  position: absolute;
+  right: 150px;
+  top: 80px;
+}
+
+.log {
+  position: absolute;
+  left: 150px;
+}
